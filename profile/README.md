@@ -1,12 +1,21 @@
-## Hi there 👋
+# Java Journey
 
-<!--
+Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
 
-**Here are some ideas to get you started:**
+# Team Members
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team ID : C241-PS312
+
+<br>
+
+| Name                       | Student ID   | Path                |
+| -------------------------- | ------------ | ------------------- |
+| Abdillah Ilham             | M004D4KY2135 | Machine Learning    |
+| Alexander Christo Setiawan | C006D4KY0600 | Cloud Computing     |
+| Alif Raihan Firman Putra   | A258D4KY3727 | Android Development |
+| Bayu Puspito Aji           | M258D4KY2357 | Machine Learning    |
+| Rahmannuaji Satuhu         | M004D4KY1544 | Machine Learning    |
+| Riski Cahyadi              | C258D4KY0494 | Cloud Computing     |
+| Septian Ghuslal Nur Na’im  | A006D4KY4043 | Android Development |
+
+<br>
