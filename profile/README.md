@@ -2,6 +2,14 @@
 
 Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
 
+# About The Project
+
+<p align="center">
+	<img src="https://github.com/Capstone-General/.github/blob/631b023d32a91020a00ae04ea6147abfa14c1d6b/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Capstone-General/.github/blob/631b023d32a91020a00ae04ea6147abfa14c1d6b/profile/images/welcome.png" width="25%"> &nbsp; &nbsp; &nbsp;
+<!-- 	<img src="logo/rekomendasi.png" width="25%"> -->
+</p>
+
 # Team Members
 
 ## Team ID : C241-PS312
