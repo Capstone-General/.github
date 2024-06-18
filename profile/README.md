@@ -63,6 +63,18 @@ In our project is divided into four branches.
 
 For API documentation, see the following link [RESTful APIs](https://github.com/Jnckk/JavaJourney-API.git)
 
+# Contact
+
+| Name                  | Contact                                                                                                                                                                                                                                                                                                                                        |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Abdillah Ilham          | <a href="https://www.linkedin.com/in/abdillah-ilham-83288821a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ailham4321"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                   |
+| Alexander Christo Setiawan | <a href="https://www.linkedin.com/in/alexander-christo-setiawan-51ab30249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/alexchristoo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>               |
+| Alif Raihan Firman Putra     | <a href="https://www.linkedin.com/in/alif-raihan-271069162//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/arfpalif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+| Bayu Puspito Aji  | <a href="https://www.linkedin.com/in/bayu-puspito-aji/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Boytzy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                          |
+| Rahmannuaji Satuhu    | <a href="https://www.linkedin.com/in/rahmannuajisatuhu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/rahmannuaji"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                       |
+| Riski Cahyadi           | <a href="https://www.linkedin.com/in/riski-cahyadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Jnckk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                        |
+| Septian Ghuslal Nur Na’im          | <a href="https://www.linkedin.com/in/septian-ghuslal-nur-na-im-44ba3224b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/septiannaim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                        |
+
 # Acknowledgments
 
 <img src="https://github.com/Capstone-General/.github/blob/ab66c675314374d24c47ed081f094f30a234ce33/profile/images/Bangkit.png" />
