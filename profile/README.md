@@ -5,8 +5,8 @@ Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone
 # About The Project
 
 <p align="center">
-	<img src="https://github.com/Capstone-General/.github/blob/631b023d32a91020a00ae04ea6147abfa14c1d6b/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/Capstone-General/.github/blob/631b023d32a91020a00ae04ea6147abfa14c1d6b/profile/images/welcome.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Capstone-General/.github/blob/6f6359a8f0e9ac1fd4ffc6c6d98c54583ea60dcd/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
 <!-- 	<img src="logo/rekomendasi.png" width="25%"> -->
 </p>
 
