@@ -44,7 +44,7 @@ Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone
 
 # API Documentation
 
-For API documentation, see the following link [RESTful APIs GetLoc](https://github.com/Jnckk/JavaJourney-API.git)
+For API documentation, see the following link [RESTful APIs](https://github.com/Jnckk/JavaJourney-API.git)
 
 # Acknowledgments
 
