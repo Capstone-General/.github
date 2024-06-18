@@ -28,6 +28,15 @@ Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone
 
 <br>
 
+# Resource
+
+In our project is divided into four branches.
+
+1. [main](https://github.com/Capstone-General)
+2. [android-development](https://github.com/Capstone-General/Mobile-Development.git)
+3. [cloud-computing](https://github.com/Capstone-General/Cloud-Computing.git)
+4. [machine-learning](https://github.com/Capstone-General/Machine-Learning.git)
+
 # Product
 
 1. [Java Journey Apps]()
