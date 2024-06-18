@@ -101,7 +101,7 @@ We are very open to any input, therefore we want to make contributing to this pr
 - Proposing new features
 - Becoming a maintainer
 
-If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/Java-Journey-C241-PS312/Java-Journey/blob/main/README.md#contact) the existing ones.
+If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/Capstone-General#contact) the existing ones.
 
 # License
 
