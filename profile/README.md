@@ -48,4 +48,4 @@ For API documentation, see the following link [RESTful APIs GetLoc](https://gith
 
 # Acknowledgments
 
-<img src="Assets/Images/Bangkit.png" />
+<img src="profile/images/Bangkit.png" />
