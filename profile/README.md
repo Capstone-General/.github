@@ -6,7 +6,7 @@
 </p>
 <br>
 
-# Java Journey
+# J-team Journey
 
 J-team Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
 
