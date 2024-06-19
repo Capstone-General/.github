@@ -8,7 +8,7 @@
 
 # Java Journey
 
-Java Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
+J-team Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
 
 # About The Project
 
@@ -47,7 +47,7 @@ In our project is divided into four branches.
 
 # Product
 
-1. [Java Journey Apps]()
+1. [J-Team Journey Apps]()
 2. [Web Service](https://capstone-project-c241-ps312.et.r.appspot.com/)
    <br>
 
