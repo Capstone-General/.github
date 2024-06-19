@@ -69,7 +69,7 @@ In our project is divided into four branches.
 
 # API Documentation
 
-For API documentation, see the following link [RESTful APIs](https://github.com/Jnckk/JavaJourney-API.git)
+For API documentation, see the following link [RESTful APIs](https://github.com/Capstone-General/Cloud-Computing.git)
 
 # Contributing
 
