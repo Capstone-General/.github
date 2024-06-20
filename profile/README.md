@@ -13,8 +13,8 @@ Jatim Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capston
 # About The Project
 
 <p align="center">
-	<img src="https://github.com/Capstone-General/.github/blob/631b023d32a91020a00ae04ea6147abfa14c1d6b/profile/images/welcome.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/Capstone-General/.github/blob/6f6359a8f0e9ac1fd4ffc6c6d98c54583ea60dcd/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Jatim-Journey/.github/blob/809670f885626f4a50245676628619da4b4442c8/profile/images/welcome.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Jatim-Journey/.github/blob/809670f885626f4a50245676628619da4b4442c8/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
 <!-- 	<img src="logo/rekomendasi.png" width="25%"> -->
 </p>
 
@@ -40,10 +40,10 @@ Jatim Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capston
 
 In our project is divided into four branches.
 
-1. [main](https://github.com/Capstone-General)
-2. [android-development](https://github.com/Capstone-General/Mobile-Development.git)
-3. [cloud-computing](https://github.com/Capstone-General/Cloud-Computing.git)
-4. [machine-learning](https://github.com/Capstone-General/Machine-Learning.git)
+1. [main](https://github.com/Jatim-Journey)
+2. [android-development](https://github.com/Jatim-Journey/Mobile-Development.git)
+3. [cloud-computing](https://github.com/Jatim-Journey/Cloud-Computing.git)
+4. [machine-learning](https://github.com/Jatim-Journey/Machine-Learning.git)
 
 # Product
 
@@ -69,7 +69,7 @@ In our project is divided into four branches.
 
 # API Documentation
 
-For API documentation, see the following link [RESTful APIs](https://github.com/Capstone-General/Cloud-Computing.git)
+For API documentation, see the following link [RESTful APIs](https://github.com/Jatim-Journey/Cloud-Computing.git)
 
 # Contributing
 
@@ -81,7 +81,7 @@ We are very open to any input, therefore we want to make contributing to this pr
 - Proposing new features
 - Becoming a maintainer
 
-If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/Capstone-General#contact) the existing ones.
+If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/Jatim-Journey#contact) the existing ones.
 
 # License
 
@@ -99,4 +99,4 @@ If you think something important is missing or should be different based on your
 
 # Acknowledgments
 
-<img src="https://github.com/Capstone-General/.github/blob/ab66c675314374d24c47ed081f094f30a234ce33/profile/images/Bangkit.png" />
+<img src="https://github.com/Jatim-Journey/.github/blob/809670f885626f4a50245676628619da4b4442c8/profile/images/Bangkit.png" />
