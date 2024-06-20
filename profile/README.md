@@ -11,7 +11,7 @@
 Jatim Journey : Get Location GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing from team C241-PS312.
 
 # About The Project
-
+In 2023, Jawa Timur has been awarded with the biggest local tourist attraction, mainly because of the diversity of many tourist attractions. There are lots of tourist attraction in East Java, over 2000 tourist destinations. Unfortunately, some of them (especially "the hidden gem") are not getting enough coverage. Furthermore, Travel Agent and Tourist scamming makes travelling inconvenience. In the recent news, one of the travel agents in Jawa Timur scammed customer which resulted in millions of rupiah in loss.
 <p align="center">
 	<img src="https://github.com/Jatim-Journey/.github/blob/809670f885626f4a50245676628619da4b4442c8/profile/images/welcome.png" width="25%"> &nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/Jatim-Journey/.github/blob/809670f885626f4a50245676628619da4b4442c8/profile/images/home.png" width="25%"> &nbsp; &nbsp; &nbsp;
