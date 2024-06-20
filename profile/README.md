@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/Capstone-General/.github/blob/ba910d523a4998266d9ba33cf7f6a9041f344737/profile/images/bg.png">
+    <img src="https://github.com/Jatim-Journey/.github/blob/e1c7f3d6bd1c49c89b55d168160c3687c9712bcf/profile/images/bg.jpg">
   </a>
 </p>
 <br>
