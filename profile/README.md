@@ -47,7 +47,7 @@ In our project is divided into four branches.
 
 # Product
 
-1. [Jatim Journey Apps]()
+1. [Jatim Journey Apps](https://storage.googleapis.com/jatim-journey/Jatim%20Journey.apk)
 2. [Web Service](https://capstone-project-c241-ps312.et.r.appspot.com/)
    <br>
 
