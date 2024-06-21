@@ -41,7 +41,7 @@ In 2023, Jawa Timur has been awarded with the biggest local tourist attraction, 
 In our project is divided into four branches.
 
 1. [main](https://github.com/Jatim-Journey)
-2. [android-development](https://github.com/Jatim-Journey/Mobile-Development.git)
+2. [android-development](https://github.com/Jatim-Journey/MD.git)
 3. [cloud-computing](https://github.com/Jatim-Journey/Cloud-Computing.git)
 4. [machine-learning](https://github.com/Jatim-Journey/Machine-Learning.git)
 
